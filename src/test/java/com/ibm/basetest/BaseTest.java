@@ -8,6 +8,7 @@ public class BaseTest {
 	public void LoginTest() 
 	{
 		System.out.println("Demo of Maven project");
+		System.out.println("Testing");
 	}
 	
 }
